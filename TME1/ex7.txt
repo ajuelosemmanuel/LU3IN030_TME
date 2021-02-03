@@ -1,0 +1,5 @@
+00	: Rejeté
+01001	: Accepté
+10010	: Rejeté
+000	: Accepté
+0000	: Rejeté
